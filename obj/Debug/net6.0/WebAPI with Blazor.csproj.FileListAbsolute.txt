@@ -58,3 +58,9 @@ C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blaz
 C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\obj\Debug\net6.0\WebAPI with Blazor.pdb
 C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\obj\Debug\net6.0\WebAPI with Blazor.genruntimeconfig.cache
 C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\obj\Debug\net6.0\ref\WebAPI with Blazor.dll
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
