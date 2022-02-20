@@ -1,0 +1,60 @@
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\appsettings.json
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\WebAPI with Blazor.exe
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\WebAPI with Blazor.deps.json
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\WebAPI with Blazor.runtimeconfig.json
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\WebAPI with Blazor.dll
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\WebAPI with Blazor.pdb
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\obj\Debug\net6.0\WebAPI with Blazor.csproj.AssemblyReference.cache
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\obj\Debug\net6.0\WebAPI with Blazor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\obj\Debug\net6.0\WebAPI with Blazor.AssemblyInfoInputs.cache
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\obj\Debug\net6.0\WebAPI with Blazor.AssemblyInfo.cs
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\obj\Debug\net6.0\WebAPI with Blazor.csproj.CoreCompileInputs.cache
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\obj\Debug\net6.0\WebAPI with Blazor.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\obj\Debug\net6.0\WebAPI with Blazor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\obj\Debug\net6.0\scopedcss\bundle\WebAPI with Blazor.styles.css
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\obj\Debug\net6.0\WebAPI with Blazor.csproj.CopyComplete
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\obj\Debug\net6.0\WebAPI with Blazor.dll
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\obj\Debug\net6.0\refint\WebAPI with Blazor.dll
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\obj\Debug\net6.0\WebAPI with Blazor.pdb
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\obj\Debug\net6.0\WebAPI with Blazor.genruntimeconfig.cache
+C:\Users\Nduduzo\Documents\Programming\Projects\Learn\C#\ASPNET\WebAPI with Blazor\obj\Debug\net6.0\ref\WebAPI with Blazor.dll
