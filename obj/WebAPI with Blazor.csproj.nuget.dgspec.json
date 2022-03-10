@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nduduzo\\Documents\\Programming\\Projects\\Learn\\C#\\ASPNET\\WebAPI with Blazor\\WebAPI with Blazor.csproj": {}
+    "C:\\Users\\nduduzok\\Documents\\GitHub\\DotNetAPI(auth)\\WebAPI with Blazor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nduduzo\\Documents\\Programming\\Projects\\Learn\\C#\\ASPNET\\WebAPI with Blazor\\WebAPI with Blazor.csproj": {
+    "C:\\Users\\nduduzok\\Documents\\GitHub\\DotNetAPI(auth)\\WebAPI with Blazor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nduduzo\\Documents\\Programming\\Projects\\Learn\\C#\\ASPNET\\WebAPI with Blazor\\WebAPI with Blazor.csproj",
+        "projectUniqueName": "C:\\Users\\nduduzok\\Documents\\GitHub\\DotNetAPI(auth)\\WebAPI with Blazor.csproj",
         "projectName": "WebAPI with Blazor",
-        "projectPath": "C:\\Users\\Nduduzo\\Documents\\Programming\\Projects\\Learn\\C#\\ASPNET\\WebAPI with Blazor\\WebAPI with Blazor.csproj",
-        "packagesPath": "C:\\Users\\Nduduzo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nduduzo\\Documents\\Programming\\Projects\\Learn\\C#\\ASPNET\\WebAPI with Blazor\\obj\\",
+        "projectPath": "C:\\Users\\nduduzok\\Documents\\GitHub\\DotNetAPI(auth)\\WebAPI with Blazor.csproj",
+        "packagesPath": "C:\\Users\\nduduzok\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nduduzok\\Documents\\GitHub\\DotNetAPI(auth)\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Nduduzo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nduduzok\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,6 +44,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.1, )"
@@ -77,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200-preview.22055.15\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
